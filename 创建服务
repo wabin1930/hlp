@@ -5,7 +5,7 @@
 ... 
 try 
 { 
-  // Open a Transaction 
+  // Open a Transaction it
   ApiUtil.initTransaction(); 
  
   // Retrieve the IApiContext from the HttpSession 
